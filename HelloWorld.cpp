@@ -2,5 +2,5 @@
 
 int main()
 {
-     std::cout << "Hello to all over World!\n"; // This is a wecome message.
+     std::cout << "Hello Everyone!\n"; // This is a wecome message.
 }
