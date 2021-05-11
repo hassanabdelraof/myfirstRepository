@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-     std::cout << "Hello to all over World!\n"; // This is a wecome message.
+     int x=50;
+     cout << "Hello to all over World!\n"; // This is a wecome message.
 }
